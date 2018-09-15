@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "name" : "delhi",
+    "street" : "265",
+    "phone" : "2265-6699-5588"
+  },
+  {
+    "id" : 2,
+    "name" : "haryana",
+    "street" : "598",
+    "phone" : "223598428"
+  },
+  {
+    "id" : 3,
+    "name" : "noida",
+    "street" : "1239",
+    "phone" : "99988877756"
+  },
+  {
+    "id" : 4,
+    "name" : "faridabad",
+    "street" : "4897",
+    "phone" : "2255697245"
+  }
+]
